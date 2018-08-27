@@ -1,0 +1,22 @@
+{
+	"gammaAccess": {
+		"url": "http://localhost:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "9dca2bcb3186aeae6a6216a66ce60038",
+			"projectName": "MobxTS",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "$GAMMA_DATA/TypeScript/Mobx",
+		"modules": {
+			"codeissues": [{
+				"name": "tslint"
+			}]
+		}
+	}]
+}
